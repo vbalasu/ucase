@@ -1,0 +1,11 @@
+{
+  "name": "ucase",
+  "version": "1.0.0",
+  "description": "Converts text to uppercase",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ucase.js inputText"
+  },
+  "author": "Vijay Balasubramaniam",
+  "license": "UNLICENSED"
+}
